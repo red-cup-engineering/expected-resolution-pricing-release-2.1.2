@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@red-cup-engineering/inference-dispatch-service": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/expected-resolution-pricing-release-2.1.2.git"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
